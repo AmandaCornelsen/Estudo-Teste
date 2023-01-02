@@ -41,4 +41,5 @@ if idade >= 18:
 
 else : 
     print("i'm so sorry, but you are not admit in our house")
-    
+
+19
